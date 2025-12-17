@@ -1,6 +1,3 @@
-## 🐍 Language
-Python (Jupyter Notebook)
-
 # ETF Portfolio Risk & Return Analyzer
 
 ## 📌 Project Overview
